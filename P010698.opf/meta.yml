@@ -4,4 +4,29 @@ source_metadata:
   id: bdr:W1KG4912
   title: ཤུགས་ལྡན་བེའུ་བུམ། ༼གློག་ཀླད་པར་མ།༽
   author: ''
-  volumes: {}
+  volumes:
+    b00c33fd5f274392bcdbf0295eaf1e45:
+      image_group_id: I1KG4914
+      title: ''
+      volume_number: 1
+      total_pages: 764
+    15b40b4c7366429e88e7aea9ca56a28b:
+      image_group_id: I1KG4915
+      title: ''
+      volume_number: 2
+      total_pages: 734
+    5c3a9b19df7747c3aea93e8bb55997cc:
+      image_group_id: I1KG4916
+      title: ''
+      volume_number: 3
+      total_pages: 734
+    384ccc398e034239ba72a852b1e8fd7a:
+      image_group_id: I1KG4917
+      title: ''
+      volume_number: 4
+      total_pages: 766
+    1ab72a66da7c4cec865a14480fbdc884:
+      image_group_id: I1KG4918
+      title: ''
+      volume_number: 5
+      total_pages: 662
